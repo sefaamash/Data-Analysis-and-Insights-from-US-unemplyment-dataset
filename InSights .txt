@@ -1,0 +1,35 @@
+                                                                             US UNEMPLOYMENT DATASET INSIGHTS
+
+1) Rate of change of unemployment Year wise using Scatter Plot
+2) Rate of change of unemployment State wise using Scatter Plot
+3)Which Year has the most number of unemployment in USA
+4) Sum of Unemployment in each State
+5)Which State has the most and least number of unemployments and in that which County has the most unemployment(year,month,rate) which county has the least?
+6.)Avg Rate of Unemployment In each State
+7) Distribution Of Unemployment rate using Line graph,Histogram.
+8) Deviation In rate of Unemployment
+9)Top five County with most number of unemployment
+10) Top five State with most number of unemployment
+
+
+
+LIBRARIES USED:
+1. Matplotlib
+2. Numpy
+3. Seaborn
+4. Pandas
+5. Os
+6. OpenDataset
+
+
+STEPS:
+1. Download dataset using opendataset from kaggle with your profile APIkey and username
+2. Load the csv in jupyter using Pandas
+3. Data Prepration which includes cleaning,handling duplicates, handling null and empty values
+4. Exploratory Data Analysis
+
+GROUPFUNCION:
+It groups the certain column elements that we select and give us the desired column result according to that column
+
+
+
